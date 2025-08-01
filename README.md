@@ -1,9 +1,8 @@
 
-- 🔭 I’m currently working on: 
-- 🌱 I’m currently learning: 
+- 🔭 I’m currently working on: A curiosity😉
+- 🌱 I’m currently learning: Web Development 
 - 📫 How to reach me: [Alwin Cj](www.instagram.com/_alwin.cj/)
-- ⚡ Fun fact: 
--->
+- ⚡ Fun fact: Wildly Creativie 👻
   
   
 
