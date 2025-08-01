@@ -6,7 +6,7 @@
 -->
   
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=24DrkVnm)](https://git.io/streak-stats)
+
   [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=24DrkVnm)](https://git.io/streak-stats)
   
   [![DrkVnm's GitHub stats](https://github-readme-stats.vercel.app/api?username=24DrkVnm)](https://github.com/anuraghazra/github-readme-stats)
